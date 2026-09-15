@@ -22,7 +22,7 @@
 <img
   src="./ascii-magic-1.png"
   alt="Yogye Berry ASCII art"
-  width="100%"
+  width="85%"
 />
 
 </td>
@@ -31,26 +31,30 @@
 
 <pre>
 ┌──────────────────────────────────────────────────────┐
-│  🔴  🟡  🟢                                  neofetch │
+│  🔴  🟡  🟢              About Me                    │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  yogyeberry@github                                   │
-│  Developer · Builder · Curious mind                  │
+│  Developer · Builder · Problem Solver                │
 │                                                      │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  ABOUT                                               │
-│  I enjoy learning, building projects, and turning    │
-│  ideas into things people can use.                   │
+│  Sophomore B.Tech student focused on web development,│
+│  real-world applications, and problem solving.       │
 │                                                      │
 │  STACK                                               │
-│  Updating soon...                                    │
+│  JavaScript · Node.js · React · Express · Python     │
+│  PostgreSQL · REST APIs · HTML · CSS · Tailwind      │
+│  Git · GitHub · Vercel · Unity · C#                  │
 │                                                      │
 │  CURRENTLY                                           │
-│  Exploring new technologies and building cool stuff. │
+│  Building web projects, exploring Unity game dev,    │
+│  and keeping the LeetCode streak alive.              │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 </pre>
+
 
 </td>
 
@@ -72,6 +76,13 @@
   <img
     src="https://img.shields.io/badge/GitHub-YogyeBerry-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=white"
     alt="GitHub"
+  />
+</a>
+
+<a href="https://leetcode.com/u/Yogye_Berry/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Yogye__Berry-F89F1B?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"
+    alt="LeetCode"
   />
 </a>
 
