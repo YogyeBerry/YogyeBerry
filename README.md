@@ -16,29 +16,18 @@
 
 <table align="center">
 <tr>
-<td width="38%" align="center">
 
-<pre>
-      .-""""-.
-    .'        '.
-   /   .-""-.   \
-  |   /      \   |
-  |   \      /   |
-   \   '-..-'   /
-    '.        .'
-      '-.__.-'
+<td width="38%" align="center" valign="middle">
 
-   Y O G Y E  B E R R Y
-
-  ┌───────────────────┐
-  │  DEVELOPER        │
-  │  BUILDER          │
-  │  ALWAYS LEARNING  │
-  └───────────────────┘
-</pre>
+<img
+  src="./ascii-magic-1.png"
+  alt="Yogye Berry ASCII art"
+  width="100%"
+/>
 
 </td>
-<td width="62%">
+
+<td width="62%" valign="middle">
 
 <pre>
 ┌──────────────────────────────────────────────────────┐
@@ -64,6 +53,7 @@
 </pre>
 
 </td>
+
 </tr>
 </table>
 
@@ -72,11 +62,17 @@
 <br>
 
 <a href="https://www.linkedin.com/in/yogye-berry-411897332/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yogye%20Berry-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Yogye%20Berry-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://github.com/YogyeBerry">
-  <img src="https://img.shields.io/badge/GitHub-YogyeBerry-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GitHub-YogyeBerry-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <br><br>
